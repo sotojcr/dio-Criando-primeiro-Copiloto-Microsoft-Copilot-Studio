@@ -19,7 +19,7 @@ Desafio Criando seu primeiro Copiloto no Microsoft Copilot Studio
     
 -  Criar um Copilot baseado em descrição com AI
 
-    ![alt text](copilot baseado em descricao com AI.png)
+    ![alt text](copilot baseado em descricao com AI.png) 
 
 -  
 
