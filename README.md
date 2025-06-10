@@ -1,5 +1,5 @@
 # Criando seu primeiro Copiloto no Microsoft Copilot Studio
-Desafio Criando seu primeiro Copiloto no Microsoft Copilot Studio
+Desafio: Criando seu primeiro Copiloto no Microsoft Copilot Studio
 
 ## Pré-requisitos
 - Ter acesso a uma conta do microsoft 365
