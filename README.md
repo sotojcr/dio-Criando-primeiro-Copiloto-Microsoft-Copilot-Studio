@@ -13,8 +13,16 @@ Desafio Criando seu primeiro Copiloto no Microsoft Copilot Studio
 
   
 -  Criar um copilot baseado em modelos
-
     Escolha o modelo de Viagens ou "Save Travels"
+
+    ![alt text](Dio_Viagens_agente.png)
+    
+-  Criar um Copilot baseado em descrição com AI
+
+    ![alt text](copilot baseado em descricao com AI.png)
+
+-  
+
 -  Criar um Copilot em branco
 
 
